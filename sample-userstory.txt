@@ -1,0 +1,4 @@
+
+As a Pedestrian, I want a green signal when the cars stop for the red light, So that I can cross the road without waiting for a long time.
+As a Vehicle driver, I want a green signal in a minute when there is no traffic, so that I don’t have to wait for longer period of time.
+As a vehicle driver, I want a green signal in less than two minutes during peak hours so that I dont have to wait for longer hours at all signals
